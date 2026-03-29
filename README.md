@@ -1,2 +1,3 @@
-# GSOC-2026-task-SR-at-CMS-Detector-
-The repository contains the specific task for the project Super-Resolution at CMS Detector for GSOC 2026
+# Super Resolution at CMS Detector
+## Project Overview
+This repository contains my submission for the GSoC 2025 project "Super Resolution at CMS Detector" under ML4SCI. This project focuses on integrating deep learning super resolution techniques to conver low-resolution calurimeter data to high-resolution data, without violating physical constraints.
